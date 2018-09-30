@@ -1,1 +1,1 @@
-Bootstrap Table: http://bootstrap-table.wenzhixin.net.cn/getting-started/
+Bootstrap Table: http://bootstrap-table.wenzhixin.net.cn
